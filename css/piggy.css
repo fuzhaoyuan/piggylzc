@@ -1,11 +1,16 @@
 body{
-	background-color: #fce2db;
+	background: url(../img/piggylzc.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: #fce2db;/
 }
 
 h1{
 	text-align: center;
 	font-size: 120px;
 	font-family: source-han-sans-simplified-c, sans-serif;
+	
+	
 	font-weight: 700;
 	font-style: normal;
 	color: #e4a3d4;
